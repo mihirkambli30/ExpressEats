@@ -1,0 +1,19 @@
+{
+  "name": "expresseats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mihirkambli30/ExpressEats.git"
+  },
+  "author": "Mihir Kambli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mihirkambli30/ExpressEats/issues"
+  },
+  "homepage": "https://github.com/mihirkambli30/ExpressEats#readme"
+}
